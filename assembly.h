@@ -1,5 +1,5 @@
 // This is the main class for the C++ DEM numerical software code.
-// From this file, we can see the general structure of the object-oriented codes,
+// From this file, we can see the general structure of my object-oriented code,
 // and also my coding style, and comments style.
 
 #ifndef ASSEMBLY_H
